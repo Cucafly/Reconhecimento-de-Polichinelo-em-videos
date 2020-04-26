@@ -1,6 +1,6 @@
-# Reconhecimento-de-Polichinelo-em-videos
+# Recognition-of-Polichinelo-in-videos
 
-# Instruções
-# As linhas de codigo abaixo deverão ser executadas no Google Colab. Primeiro salve os arquivos no seu Google Drive. Depois, crie um diretório. Obs.: os "paths" deverão ser os mesmos criados e não os indicados nas linhas de código abaixo.
+# Instructions
+# The lines of code below must be executed in Google Colab. First save the files to your Google Drive. Then, create a directory. Obs .: the "paths" must be the same ones created and not those indicated in the lines of code below.
 
-Este projeto consiste em reconhecer se o movimento do exercício físico (polichinelo) está sendo executado da forma correta. Utiliza-se um modelo de Rede Neural pré-treinada para reconhecer os principais pontos do corpo humano e foi desenvolvido um algoritmo em Python para distinguir entre movimentos corretos e incorretos. 
+This project consists of recognizing whether the movement of the physical exercise (jumping jacks) is being performed correctly. A pre-trained Neural Network model is used to recognize the main points of the human body and an Python algorithm was developed to distinguish between correct and incorrect movements.
